@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SamVet</string>
+    <string name="kullanicihint">Lütfen Kullanıcı Adınızı Giriniz</string>
+    <string name="sifrehint">Lütfen Şifrenizi Giriniz</string>
+    <string name="confirm">CONFİRM</string>
+    <string name="register">REGİSTER</string>
+    <string name="yem">ARPA</string>
+
+    <string-array name="yemler">
+        <item>Arpa</item>
+        <item>Buğday</item>
+        <item>Mısır</item>
+        <item>Soya Küspesi</item>
+        <item>Tam Yağlı Soya</item>
+        <item>Ayçiçeği Küspesi</item>
+        <item>Bitkisel Yağ</item>
+        <item>Mısır Gluteni</item>
+        <item>Kepek</item>
+
+    </string-array>
+
+</resources>
